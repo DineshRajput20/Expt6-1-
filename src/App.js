@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div style={{ backgroundColor: bgColor, height: '100vh', transition: 'background-color 0.5s ease' }}>
-      <h1 className="animated-heading">Shashwat P8 42403</h1>
+      <h1 className="animated-heading">Khushi Sunke S8 42476</h1>
       <button className="change-color-btn" onClick={changeColor}>Change Background Color</button>
     </div>
   );
